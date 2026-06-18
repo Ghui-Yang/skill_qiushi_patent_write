@@ -1,0 +1,11 @@
+outputs/
+word_export/
+__pycache__/
+*.pyc
+*.pyo
+*.docx
+logs/
+patent_review_format.md
+patent_review_examiner.md
+patent_revision_log.md
+patent_checklist.md
